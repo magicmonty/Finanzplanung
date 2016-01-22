@@ -1,4 +1,4 @@
-[![Issue Stats](http://issuestats.com/github/magicmonty/Finanzplanung/badge/issue)](http://issuestats.com/github/fsprojects/Finanzplanung)
+[![Issue Stats](http://issuestats.com/github/magicmonty/Finanzplanung/badge/issue)](http://issuestats.com/github/magicmonty/Finanzplanung)
 [![Issue Stats](http://issuestats.com/github/magicmonty/Finanzplanung/badge/pr)](http://issuestats.com/github/magicmonty/Finanzplanung)
 
 # Finanzplanung
