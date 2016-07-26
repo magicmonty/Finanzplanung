@@ -13,9 +13,9 @@ In order to build the project run
 
 ## Build Status
 
-Mono | .NET
----- | ----
-[![Mono CI Build Status](https://img.shields.io/travis/magicmonty/Finanzplanung/master.svg)](https://travis-ci.org/magicmonty/Finanzplanung) | [![.NET Build Status](https://img.shields.io/appveyor/ci/magicmonty/finanzplanung/master.svg)](https://ci.appveyor.com/project/magicmonty/finanzplanung)
+Mono | .NET | Dependencies
+---- | ---- | ----
+[![Mono CI Build Status](https://img.shields.io/travis/magicmonty/Finanzplanung/master.svg)](https://travis-ci.org/magicmonty/Finanzplanung) | [![.NET Build Status](https://img.shields.io/appveyor/ci/magicmonty/finanzplanung/master.svg)](https://ci.appveyor.com/project/magicmonty/finanzplanung) | [![Dependency Status](https://dependencyci.com/github/magicmonty/Finanzplanung/badge)](https://dependencyci.com/github/magicmonty/Finanzplanung)
 
 ## Maintainer(s)
 
